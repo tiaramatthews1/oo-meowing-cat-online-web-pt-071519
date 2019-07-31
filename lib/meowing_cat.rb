@@ -4,9 +4,9 @@ class Cat
  
  end
  
-class Dog 
+class Cat
 attr_accessor :name 
 def  
-  puts "woof!"
+  puts "meow!"
   end
 end
